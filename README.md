@@ -2,4 +2,4 @@
 
 ## Demo
 
-[실행 영상 바로 보기](./netfilter-video.mp4)
+[실행 영상 바로 보기](https://raw.githubusercontent.com/daljoa/netfilter-test/main/netfilter-video.mp4)
